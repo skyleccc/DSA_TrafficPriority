@@ -1,0 +1,9 @@
+LeftMainLane,45,LeftDiversionLane,50,MainLane,30,PedestrianDiversionLane,35,RightMainLane,60,DiversionLane,15,RightDiversionLane,25,PedestrianMainLane,40
+PedestrianMainLane,45,PedestrianDiversionLane,25,RightDiversionLane,10,LeftDiversionLane,20,RightMainLane,35,LeftMainLane,15,DiversionLane,30,MainLane,40
+MainLane,60,DiversionLane,20,LeftMainLane,45,RightMainLane,35,LeftDiversionLane,25,RightDiversionLane,15,PedestrianMainLane,10,PedestrianDiversionLane,12
+PedestrianDiversionLane,15,PedestrianMainLane,30,RightDiversionLane,40,LeftDiversionLane,35,RightMainLane,25,LeftMainLane,50,DiversionLane,20,MainLane,45
+LeftMainLane,40,MainLane,50,RightMainLane,25,DiversionLane,15,LeftDiversionLane,20,RightDiversionLane,10,PedestrianMainLane,30,PedestrianDiversionLane,12
+MainLane,55,DiversionLane,45,LeftMainLane,35,RightMainLane,25,LeftDiversionLane,20,RightDiversionLane,15,PedestrianMainLane,10,PedestrianDiversionLane,5
+PedestrianMainLane,20,PedestrianDiversionLane,25,RightMainLane,30,LeftMainLane,35,DiversionLane,40,MainLane,45,LeftDiversionLane,15,RightDiversionLane,10
+LeftMainLane,50,DiversionLane,30,RightMainLane,40,MainLane,60,PedestrianMainLane,15,PedestrianDiversionLane,10,LeftDiversionLane,25,RightDiversionLane,20
+RightMainLane,20,MainLane,30,LeftMainLane,25,DiversionLane,15,LeftDiversionLane,10,RightDiversionLane,12,PedestrianMainLane,5,PedestrianDiversionLane,8
